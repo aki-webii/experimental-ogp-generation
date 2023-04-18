@@ -1,0 +1,8 @@
+name = "experimental-ogp-generation"
+main = "src/index.tsx"
+compatibility_date = "2023-04-18"
+
+[[r2_buckets]]
+binding = "OGP_GENERATION_TEST"
+bucket_name = "ogp-generation-test"
+preview_bucket_name = "ogp-generation-test"
